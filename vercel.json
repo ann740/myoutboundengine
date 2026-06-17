@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd hatch-partnership-engine && npm install && npm run build",
+  "outputDirectory": "hatch-partnership-engine/.next",
+  "framework": "nextjs",
+  "installCommand": "cd hatch-partnership-engine && npm install"
+}
